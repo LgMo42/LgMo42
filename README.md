@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LgMo42
 - 👀 I’m interested in data, diversity, inclusion, fighting bias
-- 🌱 I’m currently learning R, Pyhton, Pyspark, spanish
+- 🌱 I’m currently learning R, Python, Pyspark, spanish
 - 💞️ I’m looking to collaborate on something maybe
 - 📫 How to reach me, it's a secret
 
